@@ -19,8 +19,6 @@ def is_legal(str):
     return flag1, flag2
 
 
-
-
 N = int(input(""))
 Pass = []
 for i in range(N):
